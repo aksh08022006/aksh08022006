@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 2nd student at bits pilani , pilani campus<br>I interested in contributing to opensource and learn.
+I'm a 2nd student at bits pilani , pilani campus<br>I am interested in contributing to opensource and learn.
 
 
 ## 🌐 Socials:
