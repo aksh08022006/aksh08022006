@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/aksh08022006">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=200&section=header&text=Aksh%20Kaushik&fontSize=58&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Fueled%20by%20caffeine,%20logic%20%26%20the%20eternal%20quest%20for%20the%20perfect%20sandwich%20%F0%9F%A5%AA&descSize=16&descAlignY=58&descColor=a9b1d6" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=200&section=header&text=Aksh%20Kaushik&fontSize=60&fontColor=c0caf5&animation=fadeIn&fontAlignY=42" alt="header"/>
 </a>
 
 <a href="https://github.com/aksh08022006">
@@ -15,7 +15,6 @@
 <br/>
 
 <a href="https://bsky.app/profile/aksh08022006"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
-<a href="https://mastodon.social/@Aksh"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
 <a href="mailto:aksh.heisenberg@gmail.com"><img src="https://img.shields.io/badge/Email-bf91f3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=aksh08022006&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" alt="views"/>
 
@@ -23,29 +22,8 @@
 
 <br/>
 
-<!-- ───────────────────────────  ABOUT  ─────────────────────────── -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
-
-```ts
-const aksh = {
-  pronouns:  "he/him",
-  campus:    "BITS Pilani, Pilani · 2nd year",
-  focus:     ["Machine Learning", "Web3 / Solidity", "Rust", "Quant Finance"],
-  openSource:["Mifos X", "Model Context Protocol", "SageMath", "data.table"],
-  currently: "Building AI tooling for financial inclusion @ Mifos",
-  funFact:   "Will debate you on the perfect sandwich-to-caffeine ratio ☕🥪",
-};
-```
-
-- 🌱 &nbsp;Currently going deep on **graph neural networks, transformers & on-chain systems**
-- 🤝 &nbsp;Contributing to **open source** — MCP servers, AI agents and workflows for [Mifos X](https://mifos.org)
-- 🧪 &nbsp;Love turning research papers into working pipelines
-- 💬 &nbsp;Ask me about **PyTorch, GATs, Solidity, Rust, or R**
-
-<br/>
-
 <!-- ─────────────────────────  TECH STACK  ────────────────────────── -->
-## <img src="https://media.giphy.com/media/W5eA0FfbooU2tBR2nz/giphy.gif" width="28"> &nbsp;Tech Stack
+## 🧰 &nbsp;Tech Stack
 
 #### &nbsp;Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -81,49 +59,71 @@ const aksh = {
 <br/>
 
 <!-- ──────────────────────  FEATURED PROJECTS  ───────────────────── -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Featured Projects
+## 📌 &nbsp;Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/aksh08022006/Credit-Card-Fraud-Detection--GAT-Transformer-Pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aksh08022006&repo=Credit-Card-Fraud-Detection--GAT-Transformer-Pipeline&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" />
-</a>
-<a href="https://github.com/aksh08022006/Mifos-Ai-Suite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aksh08022006&repo=Mifos-Ai-Suite&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" />
-</a>
-<a href="https://github.com/aksh08022006/Wifly">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aksh08022006&repo=Wifly&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" />
-</a>
-<a href="https://github.com/aksh08022006/DRM_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aksh08022006&repo=DRM_Project&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/aksh08022006/Credit-Card-Fraud-Detection--GAT-Transformer-Pipeline">Fraud Detection · GAT + Transformer</a></h3>
+      <p>Credit-card fraud pipeline fusing a Graph Attention Network with a Transformer encoder, plus a GAN/autoencoder augmentation stage and a real-time browser extension.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/aksh08022006/Mifos-Ai-Suite">Mifos AI Suite</a></h3>
+      <p>AI tooling for financial inclusion — MCP servers, agents and workflows built around the open-source Mifos X platform.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MCP-bf91f3?style=flat-square&logo=anthropic&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📡 <a href="https://github.com/aksh08022006/Wifly">Wifly</a></h3>
+      <p>A systems project written in Rust — fast, memory-safe and built for tinkering close to the metal.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/aksh08022006/DRM_Project">Derivative Risk Management</a></h3>
+      <p>Quant analysis on JSWSTEEL &amp; RATEGAIN — futures pricing, margin simulation and sensitivity analysis.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <!-- ────────────────────────  GITHUB STATS  ──────────────────────── -->
-## <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="28"> &nbsp;GitHub Stats
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aksh08022006&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksh08022006&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aksh08022006&theme=tokyonight" alt="profile summary"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aksh08022006&theme=tokyonight" alt="repos per language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aksh08022006&theme=tokyonight" alt="most commit language"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aksh08022006&theme=tokyonight" alt="stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aksh08022006&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=aksh08022006&theme=tokyonight&hide_border=false&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" alt="streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aksh08022006&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aksh08022006&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" alt="streak"/>
 
 </div>
 
 <br/>
 
 <!-- ─────────────────────  CONTRIBUTION SNAKE  ───────────────────── -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Contribution Graph
+## 🐍 &nbsp;Contribution Graph
 
 <div align="center">
 
@@ -139,12 +139,8 @@ const aksh = {
 
 <br/>
 
-<!-- ─────────────────────────  QUOTE  ────────────────────────────── -->
+<!-- ─────────────────────────  FOOTER  ───────────────────────────── -->
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev-quote"/>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=120&section=footer" alt="footer"/>
 
