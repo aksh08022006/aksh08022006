@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/aksh08022006">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=640&lines=2nd-year+%40+BITS+Pilani%2C+Pilani+Campus;Open-source+contributor+%E2%9A%99%EF%B8%8F+Mifos+X;ML+%2F+AI+%C2%B7+Web3+%2F+Solidity+%C2%B7+Rust+%C2%B7+Quant;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="typing-intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=640&lines=3rd-year+%40+BITS+Pilani%2C+Pilani+Campus;Open-source+contributor+%E2%9A%99%EF%B8%8F+Mifos+X;ML+%2F+AI+%C2%B7+Web3+%2F+Solidity+%C2%B7+Rust+%C2%B7+Quant;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="typing-intro"/>
 </a>
 
 <br/>
