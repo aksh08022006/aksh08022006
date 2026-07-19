@@ -23,26 +23,6 @@
 <br/>
 
 
-<!-- ────────────────────────  GITHUB STATS  ──────────────────────── -->
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aksh08022006&theme=tokyonight" alt="profile summary"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aksh08022006&theme=tokyonight" alt="repos per language"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aksh08022006&theme=tokyonight" alt="most commit language"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aksh08022006&theme=tokyonight" alt="stats"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aksh08022006&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aksh08022006&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" alt="streak"/>
-
-</div>
-
-<br/>
 
 <!-- ─────────────────────  CONTRIBUTION SNAKE  ───────────────────── -->
 ## 🐍 &nbsp;Contribution Graph
