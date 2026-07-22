@@ -35,7 +35,7 @@
   <img alt="contribution snake" src="https://raw.githubusercontent.com/akshhkaushik/akshhkaushik/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshhkauhsik&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=c0caf5&hide_border=true&area=true" alt="activity-graph"/>
+
 
 </div>
 
